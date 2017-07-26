@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Scrapper App</string>
+    <string name="scrapper_text">Your text here</string>
+    <string name="obtener">Obtener</string>
 </resources>
